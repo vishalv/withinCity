@@ -1,0 +1,5 @@
+D:\Study Stuffs\Practice\MVC\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+D:\Study Stuffs\Practice\MVC\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+D:\Study Stuffs\Practice\MVC\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+D:\Study Stuffs\Practice\MVC\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+D:\Study Stuffs\Practice\MVC\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
